@@ -1,0 +1,13 @@
+table,td,th{
+    border: solid 1px black;
+    border-collapse: collapse;
+    text-align: center;
+    caption-side: top;
+    height: 50px;
+}
+table{
+    border: solid 3px black;
+}
+.f1{
+    font-weight: bold;
+}

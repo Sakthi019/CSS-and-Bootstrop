@@ -1,0 +1,67 @@
+body{
+    background-color: blueviolet;
+}
+.div1{
+    margin-top: 9%;
+    margin-left: 16%;
+}
+.div2{
+    width: 40%;
+    height: 27em;
+    background-color: white;
+    float: left;
+    padding: 2%;
+}
+.div3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiwii0HVj7DolW6NiayGc0dSswD8YyYNx9z25G-vg_XnTvFQtEpCHCTTWQ_z21T-w9Ls&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 40%;
+    height: 30.2em;
+    float: left;
+    color:white;
+}
+.div4{
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    font-size: 1.23em;
+    font-weight: bold;
+    margin-top: 40%;
+}
+.h{
+    color: blueviolet;
+}
+span{
+    color: blueviolet;
+}
+button{
+    background-color: blueviolet;
+    width: 450px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+.div5{
+    margin: 0 auto;
+    width: 450px;
+    padding: 2%;
+}
+.email{
+    border-style: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+}
+.pw{
+    border-style: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+}
+.icon{
+    color: blueviolet;
+    padding: 10px;
+}
+input:focus{
+    outline: none;
+}

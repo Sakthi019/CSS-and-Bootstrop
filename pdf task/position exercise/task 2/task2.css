@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cinzel+Decorative&family=Dancing+Script&family=Lobster&family=Noto+Sans+SignWriting&family=Public+Sans:ital,wght@0,100;1,300&display=swap');
+body{
+    background-image: url("https://blog.fractureme.com/wp-content/uploads/2022/02/jamie-street-qWYvQMIJyfE-unsplash-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Audiowide', cursive;
+}
+ul{
+    list-style-type: none;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    margin-left: 20px;
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+}
+.img1{
+    height: 50px;
+    width: 50px;
+}
+
+.li1{
+    float: left;
+}
+.but{
+    background-color: lightgreen;
+    border-radius: 10px;
+    height: 30px;
+    font-weight: bold;
+}
+.sch{
+    border-radius: 10px;
+}
+.but1{
+    background-color: transparent;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    border-color: white;
+    
+}
+.div1{
+    width: 35%;
+    margin-top: 90px;
+    margin-left: 70px;
+    text-align: justify;
+}
+.img2{
+    height: 200px;
+    width: 160px;
+}
+span{
+    color: white;
+}
+.img3{
+    height: 200px;
+    width: 160px;
+}
+.img4{
+    height: 200px;
+    width: 160px;
+}
+.img5{
+    height: 200px;
+    width: 160px;
+}
+.div2{
+    float: left;
+    text-align: center;
+    background-color:pink;
+    border-radius: 20px;
+}
+.div3{
+    float: left;
+    text-align:center;
+    background-color: rgb(104, 151, 192);
+    border-radius: 20px;
+}
+.div4{
+    float: left;
+    text-align: center;
+    background-color: rgb(231, 55, 55);
+    border-radius: 20px;
+}
+.div5{
+    float: left;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.div6{
+    margin: 20px;
+}

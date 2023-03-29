@@ -1,0 +1,24 @@
+table,th,td{
+    border: solid 2px lightgreen;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 35px;
+    caption-side: top;
+}
+thead{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.td{
+    font-weight: bold;
+}
+.right{
+    text-align:right;
+}
+.center{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}

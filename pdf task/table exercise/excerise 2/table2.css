@@ -1,0 +1,28 @@
+.progess{
+    background-color: green;
+    color: white;
+    border-radius:5px;
+    border-color: green;
+}
+.open{
+    background-color: yellow;
+    border-radius: 5px;
+    border-color: yellow;
+}
+.hold{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-color: red;
+}
+tbody tr:nth-child(odd){
+    background-color: rgb(207, 202, 202);
+}
+table,th,td{
+    border-collapse: collapse;
+    width: 800px;
+    height: 40px;
+}
+.th{
+    font-weight: bold;
+}

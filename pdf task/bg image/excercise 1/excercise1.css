@@ -1,0 +1,27 @@
+body{
+    background-color: dodgerblue;
+    color: white;
+    width: 100vw;
+}
+ul li{
+    list-style-type:none;
+    display: inline;
+    margin: 5px;
+}
+.container{
+    margin: 15% 20% 0% 20%;
+    text-align: center;
+}
+.li{
+    margin-right: 770px;
+
+}
+.but{
+    background-color: aquamarine;
+    border-color: white;
+    border-radius: 5px;
+    height: 25px;
+}
+.nam{
+    font-size: 3em;
+}

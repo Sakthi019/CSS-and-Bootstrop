@@ -1,0 +1,48 @@
+body{
+    background-color: crimson;
+}
+.div1{
+    height: 330px;
+    width: 250px;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 2px black;
+    position: absolute;
+    z-index: -1;
+    transform: rotate(-20deg);
+}
+.div2{
+    height: 420px;
+    width: 250px;
+    background-color:white;
+    border-radius: 30px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 2px black;
+    position: absolute;
+    transform: rotate(20deg);
+    margin-left: 15%;
+}
+h4{
+    padding-top: 200px;
+    padding-left: 15px;
+}
+.con{
+    margin: 0 auto;
+    width: 35%;
+    margin-top: 10%;
+}
+h3{
+    width: 150px;
+    padding: 10px;
+}
+.he{
+    padding-top: 230px;
+}
+.icon{
+    padding-right: 10px;
+}
+hr{
+    border: 1px solid black;
+}

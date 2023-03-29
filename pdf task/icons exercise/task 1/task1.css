@@ -1,0 +1,85 @@
+.div1{
+    width: 50%;
+    height: 44em;
+    background-color: rgb(34, 120, 96);
+    float: left;
+    color: white;
+}
+.but1{
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    border-radius: 30px;
+    padding: 10px;
+}
+.but2{
+    width: 150px;
+    height: 40px;
+    background-color:rgb(34, 120, 96);
+    color: white;
+    border-style: none;
+    border-radius: 30px;
+    padding: 10px;
+}
+.h{
+    color: rgb(34, 120, 96);
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+.div2{
+    text-align: center;
+    margin-top: 20%;
+}
+.div3{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+}
+.div4{
+    margin: 0 auto;
+    width: 20%;
+}
+.icons{
+    font-size: 30px;
+    padding: 20px;
+}
+.div5{
+    text-align: center;
+}
+.div6{
+    margin: 0 auto;
+    background-color: lightgreen;
+    width: 40%;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.icon{
+    padding: 10px;
+}
+.div7{
+    width: 20%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.div8{
+    float: left;
+    width: 50%;
+    height: 44em;
+    margin-top: 10%;
+}
+.name{
+    border-style: none;
+    background-color: transparent;
+}
+.email{
+    border-style: none;
+    background-color: transparent;
+}
+.pw{
+    border-style: none;
+    background-color: transparent;
+}

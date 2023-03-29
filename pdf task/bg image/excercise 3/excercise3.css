@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+body{
+    background-image: url("https://cdn.wallpapersafari.com/37/34/t8w4sf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color: white;
+}
+ul li{
+    color: black;
+    list-style-type: none;
+    display: inline;
+    font-size: 2em;
+    margin-right: 20px;
+}
+.mr{
+    margin-left: 670px;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.container{
+    color: white;
+    text-align: center;
+}
+.cen{
+    margin: 10% 20% 0 20%;
+    font-family: 'Kalam', cursive;
+}
+.h1{
+    font-size: 80px;
+}
+table{
+    margin-left: 350px;
+}
+.logo{
+    width: 80px;
+    height: 55px;
+}

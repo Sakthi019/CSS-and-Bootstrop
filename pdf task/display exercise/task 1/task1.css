@@ -1,0 +1,17 @@
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
+ul{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+.li:hover{
+    background-color: darkblue;
+}
+.com:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}

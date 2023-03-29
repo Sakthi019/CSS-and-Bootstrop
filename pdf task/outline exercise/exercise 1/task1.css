@@ -1,0 +1,57 @@
+.div1{
+    outline: 10px solid green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div2{
+    outline: 10px dashed green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div3{
+    outline: 10px dotted green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div4{
+    outline: 10px double green;
+    margin: 30px;
+    width: 80px;
+    float:left;
+}
+.div5{
+    outline: 10px groove green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div6{
+    outline: none;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div7{
+    outline: 10px ridge green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div8{
+    outline: 10px inset green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.div9{
+    outline: 10px outset green;
+    margin: 30px;
+    width: 80px;
+    float: left;
+}
+.con1{
+    max-width: 500px;
+}

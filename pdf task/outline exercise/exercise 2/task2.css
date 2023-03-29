@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Noto+Sans+SignWriting&family=Public+Sans:ital,wght@0,100;1,300&display=swap');
+body{
+    background-image: url("https://www.vic-properties.com/wp-content/uploads/2021/04/Compromissos_Proposito-%E2%80%93-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+ul{
+    list-style-type: none;
+    padding: 20px;
+}
+ul li{
+    display: inline;
+    margin-left: 20px;
+    float: right;
+}
+.img1{ 
+    width: 30px;
+    height: 30px;
+}
+.li{
+    float: left;
+}
+.container{
+    margin: 10% 0 0 5%;
+    text-align: center;
+}
+.but{
+    border-color: yellow;
+    background-color: transparent;
+    color: grey;
+    font-size: 20px;
+    height: 40px;
+    width: 350px;
+    border-radius: 3px;
+}
+.div2{
+    width: 920px;
+    margin-left: 18%;
+}
+h1{
+    font-size: 100px;
+}
+a{
+    color:chartreuse;
+}
+span{
+    color: yellow;
+}

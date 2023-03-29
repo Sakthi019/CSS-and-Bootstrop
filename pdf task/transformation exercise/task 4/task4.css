@@ -1,0 +1,95 @@
+.con{
+    width: 20%;
+    height: 550px;
+    box-shadow: 10px 10px 10px 5px black;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.but{
+    width: 60px;
+    height: 30px;
+    background-color: lightgrey;
+    border-radius: 30px;
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    margin-top: 3%;
+}
+.but1{
+    width: 28px;
+    height: 28px;
+    background-color:white;
+    border-radius: 50%;
+    margin-left: 2px;
+    margin-top: 1px;
+}
+.icon{
+    padding: 15px;
+    font-size: 20px;
+    float: right;
+}
+.icons{
+    font-size: 20px;
+    padding: 15px;
+}
+p{
+    padding: 10px;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-left: 33%;
+}
+.mark{
+    color: crimson;
+    z-index: 1;
+    margin-left: 10px;
+    position: absolute;
+    top: 230px;
+    left: 788px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color:deeppink;
+    border-style: none;
+    color: white;
+}
+.div1{
+    text-align: center;
+}
+.sm1{
+    font-size: 30px;
+    padding-right: 47px;
+    color: deeppink;
+}
+.sm2{
+    font-size: 30px;
+    padding-right: 47px;
+    color:blue;
+}
+.sm3{
+    font-size: 30px;
+    color:darkblue;
+}
+.div2{
+    padding-top: 25px;
+    margin: 0 auto;
+    width: 183px;
+}
+h3{
+    font-size: 15px;
+    width: 50px;
+    float: left;
+    padding-left: 30px;
+    padding-top: 5px;
+    text-align: center;
+}
+.div3{
+    margin: 0 auto;
+    width: 270px;
+}
+span{
+    font-weight: lighter;
+}
