@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&family=Rubik+Storm&display=swap');
+
+body{
+    background-image: url("https://www.lifewire.com/thmb/tecqrB3ByCQ7uXk8ZCjjPBXtGNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/blue-windows-wallpaper-0731200e5d204ee09695a06cb45077d3.jpg");
+    background-repeat: no-repeat;
+}
+.p1{
+    color: azure;
+     margin-left: 20px;
+  text-indent: 30px;
+  line-height: 30px;
+  word-spacing: 20px;
+  letter-spacing: 10px;
+  direction: rtl;
+}
+.submit{
+    color: blue;
+    height: 0.7cm;
+    width: 1.5cm;
+}
+.cancel{
+    color: aqua;
+    height: 0.7cm;
+    width: 1.5cm;
+}
+.container{
+    margin-right: 45%;
+    margin-left: 45%;
+}
+.h1{
+    color: blue;
+    background-color:greenyellow;
+    font-size: 10vw;
+    font-weight: lighter;
+    font-variant: small-caps;
+    font-style: italic;
+    font-family: 'Rubik 80s Fade', cursive;
+    text-decoration: line-through;
+}
+.h2{
+    background-color: lightsteelblue;
+    color:firebrick;
+    font:10vw  'Rubik Storm', cursive;
+    text-decoration: underline;
+}
