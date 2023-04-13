@@ -1,0 +1,29 @@
+ul li{
+    list-style-type: none;
+    display: inline;
+    float: right;
+    padding: 10px;
+}
+.logo{
+    height: 70px;
+    width: 140px;
+    margin-top: -17px;
+}
+nav{
+    background-color: red;
+    height: 50px;
+}
+.icon{
+    font-size: 1.5rem;
+}
+.lo{
+    float: left;
+}
+button{
+    background-color: crimson;
+    color: white;
+    border-style: none;
+    border-radius: 30px;
+    height: 30px;
+    width: 100px;
+}

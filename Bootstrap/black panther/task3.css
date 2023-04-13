@@ -1,0 +1,92 @@
+ul li{
+    display: inline;
+    list-style-type: none;
+}
+nav{
+    color: white;
+    border-radius: 30px;
+}
+li{
+    float: right;
+    margin-right: 15px;
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.lft{
+    float: left;
+}
+.logo{
+    width:25%;
+    height: 16.66%;
+    margin-top: 0px;
+}
+.bg-img{
+    background-image: url("https://i.pinimg.com/736x/81/82/16/818216bb95079060bdbbbfedeb850385.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 32rem;
+}
+.con{
+    margin: 0 auto;
+    margin-top: 10%;
+    color: white;
+    width: 40%;
+    text-align: center;
+}
+.but{
+    background-color: white;
+    border-radius: 4rem;
+    width: 50%;
+    height: 3rem;
+}
+.but1{
+    background-color: white;
+    border-radius: 4rem;
+    width: 15%;
+    height: 3rem;
+}
+.con2{
+    text-align: center;
+}
+.icon{
+    font-size: 2rem;
+    padding: 20px;
+}
+.flt{
+    float: left;
+    background-color: lightgray;
+    margin: 10px;
+    width: 25%;
+    padding: 10px;
+    text-align: center;
+}
+.olt{
+    float: left;
+}
+.cen{
+    margin-left: auto;
+    margin-right: auto;
+    width: 76%;
+}
+.cen2{
+    background-color: blue;
+    text-align: center;
+    color: white;
+
+}
+.icn{
+    padding: 7%;
+    font-size: 2rem;
+}
+.cent{
+    text-align: center;
+    margin: 10px;
+}

@@ -1,0 +1,15 @@
+img{
+    height: 450px;
+}
+.div1{
+    width: 450px;
+    margin-left:auto;
+    margin-right: auto;
+}
+button{
+    background-color:lightblue;
+    border-style: none;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+}

@@ -1,0 +1,14 @@
+.but{
+    border-style: none;
+    background-color: transparent;
+    color: blue;
+    outline:none;
+}
+.shadow{
+    box-shadow: 5px 5px 10px black;
+}
+.but1{
+    color: white;
+    background-color:dodgerblue;
+    margin-left: 250px;
+}
